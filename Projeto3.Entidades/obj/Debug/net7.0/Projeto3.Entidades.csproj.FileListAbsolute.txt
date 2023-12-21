@@ -1,0 +1,12 @@
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\bin\Debug\net7.0\Projeto3.Entidades.deps.json
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\bin\Debug\net7.0\Projeto3.Entidades.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\bin\Debug\net7.0\Projeto3.Entidades.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\obj\Debug\net7.0\Projeto3.Entidades.csproj.AssemblyReference.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\obj\Debug\net7.0\Projeto3.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\obj\Debug\net7.0\Projeto3.Entidades.AssemblyInfoInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\obj\Debug\net7.0\Projeto3.Entidades.AssemblyInfo.cs
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\obj\Debug\net7.0\Projeto3.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\obj\Debug\net7.0\Projeto3.Entidades.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\obj\Debug\net7.0\refint\Projeto3.Entidades.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\obj\Debug\net7.0\Projeto3.Entidades.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Entidades\obj\Debug\net7.0\ref\Projeto3.Entidades.dll

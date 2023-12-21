@@ -1,0 +1,15 @@
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\bin\Release\net7.0\Projeto3.Dados.deps.json
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\bin\Release\net7.0\Projeto3.Dados.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\bin\Release\net7.0\Projeto3.Dados.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\bin\Release\net7.0\Projeto3.Entidades.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\bin\Release\net7.0\Projeto3.Entidades.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\Projeto3.Dados.csproj.AssemblyReference.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\Projeto3.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\Projeto3.Dados.AssemblyInfoInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\Projeto3.Dados.AssemblyInfo.cs
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\Projeto3.Dados.csproj.CoreCompileInputs.cache
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\Projeto3.Dados.csproj.CopyComplete
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\Projeto3.Dados.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\refint\Projeto3.Dados.dll
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\Projeto3.Dados.pdb
+C:\Users\marco.marques\Desktop\Mentoria\Projetos\Projeto3\Projeto3.Dados\obj\Release\net7.0\ref\Projeto3.Dados.dll
